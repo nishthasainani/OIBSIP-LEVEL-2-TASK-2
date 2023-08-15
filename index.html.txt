@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Tribute Website | BHAGAT SINGH</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="content">
+        <section class="top_section">
+          <div class="image_container">
+            <img src="images.jpg" alt="tribute" />
+          </div>
+          <div>
+            <h1>BHAGAT SINGH</h1>
+            <h4>1907 - 1931</h4>
+          </div>
+        </section>
+        <section class="about_section">
+          <h2>Shaheed-e-Azam</h2>
+          <p>
+            <b>Bhagat Singh</b>  (27 September 1907[1] – 23 March 1931) was a charismatic Indian revolutionary[3] who participated in the mistaken murder of a junior British police officer[4] in what was to be retaliation for the death of an Indian nationalist.[5] He later took part in a largely symbolic bombing of the Central Legislative Assembly in Delhi and a hunger strike in jail, which—on the back of sympathetic coverage in Indian-owned newspapers—turned him into a household name in the Punjab region, and after his execution at age 23 into a martyr and folk hero in Northern India.[6] Borrowing ideas from Bolshevism and anarchism,[7] he electrified a growing militancy in India in the 1930s, and prompted urgent introspection within the Indian National Congress's nonviolent but eventually successful campaign for India's independence.[8]
+
+In December 1928, Bhagat Singh and an associate, Shivaram Rajguru, both members of a small revolutionary group, the Hindustan Socialist Republican Association (also Army, or HSRA), shot dead a 21-year-old British police officer, John Saunders, in Lahore, Punjab, in what is today Pakistan, mistaking Saunders, who was still on probation, for the British senior police superintendent, James Scott, whom they had intended to assassinate.[9] They held Scott responsible for the death of a popular Indian nationalist leader Lala Lajpat Rai for having ordered a lathi (baton) charge in which Rai was injured and two weeks thereafter died of a heart attack. As Saunders exited a police station on a motorcycle, he was felled by a single bullet fired from across the street by Rajguru, a marksman.[10][11] As he lay injured, he was shot at close range several times by Singh, the postmortem report showing eight bullet wounds.[12] Another associate of Singh, Chandra Shekhar Azad, shot dead an Indian police head constable, Channan Singh, who attempted to give chase as Singh and Rajguru fled.[10][11]
+
+After having escaped, Bhagat Singh and his associates used pseudonyms to publicly announce avenging Lajpat Rai's death, putting up prepared posters that they had altered to show John Saunders as their intended target instead of James Scott.[10] Singh was thereafter on the run for many months, and no convictions resulted at the time. Surfacing again in April 1929, he and another associate, Batukeshwar Dutt, set off two low-intensity homemade bombs among some unoccupied benches of the Central Legislative Assembly in Delhi. They showered leaflets from the gallery on the legislators below, shouted slogans, and allowed the authorities to arrest them.[13] The arrest, and the resulting publicity, brought to light Singh's complicity in the John Saunders case. Awaiting trial, Singh gained public sympathy after he joined fellow defendant Jatin Das in a hunger strike, demanding better prison conditions for Indian prisoners, the strike ending in Das's death from starvation in September 1929.
+
+
+          </p>
+        </section>
+        <section class="biography_section">
+          <h3>Books</h3>
+          <ul>
+            <li>
+              Singh, Bhagat (27 September 1931). Why I Am an Atheist. New Delhi: National Book Trust. ISBN 978-1-983124-92-1.
+            </li>
+            <li>
+             Singh, Bhagat (2007). Bhagat Singh : ideas on freedom, liberty and revolution : Jail notes of a revolutionary. Gurgaon: Hope India. ISBN 9788178710563. OCLC 506510146
+            </li>
+            <li>
+             Singh, Bhagat; Press, General (31 December 2019). Jail Diary and Other Writings. GENERAL PRESS. ISBN 978-93-89716-06-1.
+            </li>
+            <li>
+              Singh, Bhagat (28 January 2010). Ideas of a Nation: Singh, Bhagat. Penguin Books Limited. ISBN 978-81-8475-191-8.
+            </li>
+            <li>
+             Singh, Bhagat; Press, General (2 October 2019). No Hanging, Please Shoot Us. GENERAL PRESS. ISBN 978-93-89440-70-6.
+            </li>
+            <li>
+              Singh, Bhagat (2020). The Complete Writings of Bhagat Singh : Why I am an Atheist, The Red Pamphlet, Introduction to Dreamland, Letter to Jaidev Gupta ... and other works. Chicago: DXBooks. ISBN 9782291088691. OCLC 1153081094
+            </li>
+            <li>
+             Singh, Bhagat (2009). Selected works of Bhagat Singh. Big Red Oak. ISBN 978-1-4495-5861-1.
+            </li>
+            <li>
+             Singh, Bhagat (2007). Śahīda Bhagata Siṃha : dastāvejoṃ ke āine meṃ. Naī Dillī: Prakāśana Vibhāga, Sūcanā aura Prasāraṇa Mantrālaya, Bhārata Sarakāra. ISBN 9788123014845. OCLC 429632571.
+            </li>
+          </ul>
+        </section>
+        <footer>
+          <p>
+            Read more about Bhagat Singh on
+            <a href="https://en.wikipedia.org/wiki/Bhagat_Singh#"
+              >Wikipedia.</a
+            >
+          </p>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
